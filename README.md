@@ -2,7 +2,7 @@
 Heart Disease Prediction Using Multiple Machine Learning Algorithms
 # Heart Disease Prediction Using Machine Learning
 
-This repository contains the implementation of a project focused on predicting heart disease using various machine learning algorithms. The project was developed as part of the 6500CSMM module under the supervision of Dr. Yuzana Win, submitted to Auston University.
+This repository contains the implementation of a project focused on predicting heart disease using various machine learning algorithms. The project was developed as part of the 6500CSMM module under the supervision of Dr. Yuzana Win, submitted to Liverpool Johnmoores University.
 
 ## Project Overview
 
