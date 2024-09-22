@@ -8,6 +8,12 @@ This repository contains the implementation of a project focused on predicting h
 
 Heart disease is a major global health concern, and early detection is crucial for improving patient outcomes. This project aims to build accurate machine learning models to predict heart disease using a comprehensive dataset that includes several potential predictors. The best-performing model is deployed in a user-friendly web application to make the prediction tool accessible to users.
 
+The flowchart illustrates the steps taken in the system, starting from user data input in the web application, followed by preprocessing and feature extraction, and then passing through the trained machine learning model to generate a prediction. Finally, the result is displayed to the user.
+
+# Flow Chart
+
+https://github.com/Khaing-Khant-Kyaw/Heart_Disease/blob/main/Flow%20Chart.jpg
+
 ## Features
 
 - **Data preprocessing and cleansing**: Data preparation steps including merging multiple datasets and handling missing values.
