@@ -12,7 +12,7 @@ The flowchart illustrates the steps taken in the system, starting from user data
 
 # Flow Chart
 
-https://github.com/Khaing-Khant-Kyaw/Heart_Disease/blob/main/Flow%20Chart.jpg
+![Flow Chart](https://github.com/Khaing-Khant-Kyaw/Heart_Disease/blob/main/Flow%20Chart.jpg)
 
 ## Features
 
