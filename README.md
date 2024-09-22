@@ -69,6 +69,11 @@ Heart disease is a major global health concern, and early detection is crucial f
 This project demonstrates the potential of machine learning algorithms to predict heart disease, contributing to the healthcare domain by providing a tool that aids in early detection. By testing multiple models and implementing the Random Forest Classifier, we achieved high accuracy and made the prediction process accessible via a web application. With further development, the model can be refined to support real-time data and offer even more accurate predictions, helping healthcare professionals and individuals alike.
 
 
+## Project Thesis
+
+If you're interested in learning more about the project, you can read the full thesis document [here](./docs/.pdf).
+
+
 
 
 
