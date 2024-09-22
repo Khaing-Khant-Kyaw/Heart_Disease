@@ -28,7 +28,7 @@ Heart disease is a major global health concern, and early detection is crucial f
 - **Data Visualization**: Matplotlib
 - **Machine Learning Algorithms**: Scikit-learn
 - **Deployment**: Localhost using Flask
-- 
+  
 ## Installation
 
 1. Clone the repository:
