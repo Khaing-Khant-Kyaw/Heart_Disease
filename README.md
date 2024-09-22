@@ -71,7 +71,7 @@ This project demonstrates the potential of machine learning algorithms to predic
 
 ## Project Thesis
 
-If you're interested in learning more about the project, you can read the full thesis document [here](https://github.com/Khaing-Khant-Kyaw/Heart_Disease/blob/main/Heart%20Disease%20Prediction%20Thesis%20.pdf).
+If you're interested in learning more about the project, you can read the full thesis document [here]([https://github.com/Khaing-Khant-Kyaw/Heart_Disease/blob/main/Heart%20Disease%20Prediction%20Thesis%20.pdf](https://github.com/Khaing-Khant-Kyaw/Heart_Disease/blob/main/Heart%20Disease%20Prediction%20Thesis%20.pdf)).
 
 
 
