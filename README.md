@@ -52,16 +52,14 @@ Heart disease is a major global health concern, and early detection is crucial f
 
 ## Results
 **Best Model: Random Forest Classifier**
+
   -Train-Test Split: 90/10
-  
-  -Accuracy: 92% (on the best split)
+   -Accuracy: 92% (on the best split)
   
 **Future Work**
 
   -Improve model accuracy by incorporating more advanced machine learning techniques.
-  
   -Develop real-time monitoring systems to continuously update predictions.
-  
   -Enhance the web application for broader accessibility and usability.
   
 ## Conclusion
